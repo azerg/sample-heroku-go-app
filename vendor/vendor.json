@@ -1,0 +1,6 @@
+{
+	"heroku": {
+		"goVersion": "go1.13"
+	},
+	"rootPath": "github.com/azerg/sample-heroku-go-app"
+}
